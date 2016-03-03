@@ -1,0 +1,10 @@
+command: sh main.sh ./inputfile/af-iprange-latest 24 100 4
+2016年 03月 01日 星期二 13:06:56 CST\t start extractorip from cn-allocated-delegated-apnic
+2016年 03月 01日 星期二 13:06:56 CST\t start scamper 24.extractorip
+\t scamper has spent time: 0 hours 2 minutes 17 seconds
+2016年 03月 01日 星期二 13:09:13 CST\t transfer formate  warts to text
+2016年 03月 01日 星期二 13:09:13 CST\t start count edges with inputfile 24.text
+Processed: 648
+Find edges: 734
+Find points: 477
+2016年 03月 01日 星期二 13:09:14 CST\t end
